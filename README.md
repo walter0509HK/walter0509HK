@@ -1,5 +1,8 @@
 ## About Me
 
+I love music, the kitchen, the gym, travelling, investment, GTA games, AI and cybersecurity
+
+occasionally do open source
 
 ## Certifications & Badges
 
