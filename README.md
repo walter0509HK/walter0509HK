@@ -1,6 +1,6 @@
 ## About Me
 
-I love music, the kitchen, the gym, travelling, investment, GTA and Pokémon games, AI and cybersecurity
+I like music, movies, kitchen, the gym, travelling, investment, GTA and Pokémon games, AI and cybersecurity
 
 Occasionally do open source
 
