@@ -11,9 +11,4 @@ Occasionally do open source, MBTI: (ISTJ-A)
 [![CDPSE](https://images.credly.com/size/110x110/images/20e0e50d-6dc6-45e4-b0c6-89cca34d4652/CDPSE_Badge-600x600.png)](https://www.credly.com/badges/f39f5fc5-fd7c-4dc5-ac51-d42b89071ed8)
 [![AAISM](https://images.credly.com/size/110x110/images/158f4291-ca93-40cb-b360-a4eac7f18763/blob)](https://www.credly.com/badges/af3923a6-c65b-4a53-bf13-420322385d1f/linked_in?t=tk56yq)
 
-## Platform Achievements
-
-
-
-
 ## Connect with Me
