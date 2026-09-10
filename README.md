@@ -1,6 +1,6 @@
 ## About Me
 
-## Hi, I'm [Your Name] 👋
+## Hi, I'm Walter 👋
 
 I'm passionate about music, movies, cooking, working out, traveling, and investing. I also enjoy playing GTA and Pokémon, and I'm deeply interested in AI and cybersecurity. I occasionally contribute to open source projects.
 
