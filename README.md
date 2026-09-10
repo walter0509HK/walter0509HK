@@ -1,9 +1,14 @@
 ## About Me
 
-I like music, movies, kitchen, the gym, travelling, investment, GTA and Pokémon games, AI and cybersecurity
+## Hi, I'm [Your Name] 👋
 
-Occasionally do open source, MBTI: (ISTJ-A)
+I'm passionate about music, movies, cooking, working out, traveling, and investing. I also enjoy playing GTA and Pokémon, and I'm deeply interested in AI and cybersecurity. I occasionally contribute to open source projects.
 
+- 🎵 Music · 🎬 Movies · 🍳 Cooking · 🏋️ Working out · ✈️ Traveling · 📈 Investing
+- 🎮 GTA & Pokémon
+- 🤖 AI & Cybersecurity
+- 🧩 MBTI: ISTJ-A
+  
 ## Certifications & Badges
 
 [![CISA](https://images.credly.com/size/110x110/images/d8b54d17-692a-4151-8e2e-e3c8c1a89ec1/b415cf50edc1955df11b9046c68b7e2debbd41f1.png)](https://www.credly.com/badges/9ef94834-b659-4dd0-a570-861cf299816b)
